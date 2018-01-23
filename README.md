@@ -36,7 +36,8 @@ Here is an [article](https://blog.mindorks.com/how-to-become-more-productive-in-
 | FindViewByMe                                |  https://github.com/laobie/FindViewByMe
 | AndroidLocalizationer                       |  https://github.com/westlinkin/AndroidLocalizationer
 | .gitignore                                  |  https://github.com/hsz/idea-gitignore
-| BIU (plugin to compress your PNGs)          |  https://plugins.jetbrains.com/plugin/9788-biu                           
+| BIU (plugin to compress your PNGs)          |  https://plugins.jetbrains.com/plugin/9788-biu 
+| [GsonFormat](https://plugins.jetbrains.com/plugin/7654-gsonformat)|  quickly to convert a JSON string to an InnerClassEntity class  
 
 ### UI Design
 
