@@ -92,6 +92,8 @@ Here is an [article](https://blog.mindorks.com/how-to-become-more-productive-in-
 | ------------------------------------------  |  -----------------------------------------------------------
 | GenyMotion                                  |  https://www.genymotion.com/plugins/
 | Git Flow Integration for Intellij           |  https://github.com/OpherV/gitflow4idea/
+| [BashSupport](https://plugins.jetbrains.com/plugin/4230-bashsupport)| Bash language support for the IntelliJ platform. 
+Supports syntax highlighting, rename refactoring, documentation lookup, inspections, quickfixes and much more.
 
 
 ### Contributing to this Repo
